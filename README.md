@@ -43,6 +43,9 @@ The analysis of the election data has shown:
   -	The winner of the election was:
     -	Diana DeGette, who received 73.8% of the votes and 272,892 number of votes.
 
+Screenshot of the results
+![Election_Results](Resources/Election_Results.png)
+
 ## Election Audit Summary
 
 The current code is an easy and useful tool in evaluating the election results regardless of population size or the number of candidates. It can be adopted to be utilized in a wide variety of settings ranging from local to federal elections. With minor modifications, the current code can evaluate the data to produce the total number of votes and the percentage of votes per candidate in each county. It can also identify the areas/districts that demonstrate lower voter turnout. With additional modifications and data, the code can be restructured to analyze the voting patterns based on demographic characteristics.    
